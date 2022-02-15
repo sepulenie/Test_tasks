@@ -1,2 +1,1 @@
-bib = (2,3,5)
-print (bib[0])
+print("a" if 2>0 else "b")
